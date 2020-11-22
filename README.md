@@ -10,6 +10,7 @@ I have been a Systems Analyst since 2018 and have a great interest in Linux, Sec
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-000000?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/gabrielgalucio/)](https://www.instagram.com/gabrielgalucio/) 
 [![Gmail Badge](https://img.shields.io/badge/-gmlgalucio@gmail.com-000000?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gmlgalucio@gmail.com)](mailto:gmlgalucio@gmail.com)
 
-** Social Media - Beckman **
+**Social Media - Beckman**
 
-[![GitHub Badge](https://img.shields.io/badge/-GitHub-483D8B?style=flat-square&labelColor=483D8B&logo=GitHub&logoColor=white&link=https://github.com/tecnologiabeckman)](https://github.com/tecnologiabeckman) 
+[![GitHub Badge](https://img.shields.io/badge/-GitHub-483D8B?style=flat-square&labelColor=483D8B&logo=GitHub&logoColor=white&link=https://github.com/tecnologiabeckman)](https://github.com/tecnologiabeckman)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-483D8B&?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/tecnologiabeckman/)](https://www.instagram.com/tecnologiabeckman/)
