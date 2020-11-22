@@ -12,5 +12,4 @@ I have been a Systems Analyst since 2018 and have a great interest in Linux, Sec
 
 <p align = "center">
   <a href="https://github.com/GabrielGalucio"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipesantos10&layout=compact&theme=dark"/></a> 
-  <a href="https://github.com/GabrielGalucio"><img src="https://github-readme-stats.vercel.app/api?username=felipesantos10&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="felipesantos10"/></a>
 </p> 
