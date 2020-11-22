@@ -13,4 +13,5 @@ I have been a Systems Analyst since 2018 and have a great interest in Linux, Sec
 **Social Media - Beckman**
 
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-483D8B?style=flat-square&labelColor=483D8B&logo=GitHub&logoColor=white&link=https://github.com/tecnologiabeckman)](https://github.com/tecnologiabeckman)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-483D8B&?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/tecnologiabeckman/)](https://www.instagram.com/tecnologiabeckman/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-483D8B?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/tecnologiabeckman/)](https://www.instagram.com/tecnologiabeckman/)
+
